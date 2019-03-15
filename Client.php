@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php
+//test 
 require 'php/database.inc';
 require 'php/Client.inc';
 $Table=new ListClient($_GET);
